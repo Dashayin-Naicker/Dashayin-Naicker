@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dashayin 👋
 
-<!--
-**Dashayin-Naicker/Dashayin-Naicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Process Intelligence Specialist at Mutherboard.com
+Process Intelligence | Workflow Automation | Cloud & Integrations| Software Development
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Build automated workflows using Make.com and n8n
+- Integrate CRMs and SaaS platforms via APIs & webhooks
+- Optimize business processes using AI-assisted automation
+- Develop backend services and applications
+- Build complex JSON Structures for Rest API and GraphQL Queries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+C#, Java, .NET, Kotlin, SQL, PostgreSQL, NoSQL  
+Make.com, n8n, Azure, Git
+
+## 📂 Featured Projects
+⬇️ Scroll down to see selected projects with real-world use cases.
+
+## 📫 Contact
+- Email: dashayinnaicker@gmail.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/dashayin-naicker-61a146240/)
