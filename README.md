@@ -4,7 +4,7 @@ Process Intelligence Specialist at Mutherboard.com
 Process Intelligence | Workflow Automation | Cloud & Integrations| Software Development
 
 ## 🚀 What I Do
-- Build automated workflows using Make.com and n8n
+- Build automated workflows using Make.com
 - Integrate CRMs and SaaS platforms via APIs & webhooks
 - Optimize business processes using AI-assisted automation
 - Develop backend services and applications
@@ -12,7 +12,7 @@ Process Intelligence | Workflow Automation | Cloud & Integrations| Software Deve
 
 ## 🧠 Tech Stack
 C#, Java, .NET, Kotlin, SQL, PostgreSQL, NoSQL  
-Make.com, n8n, Azure, Git
+Make.com, Git
 
 ## 📂 Featured Projects
 ⬇️ Scroll down to see selected projects with real-world use cases.
